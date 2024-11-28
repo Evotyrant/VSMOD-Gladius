@@ -1,0 +1,22 @@
+{
+    "ingredientPattern": "B,H",
+    "width": 1,
+    "height": 2,
+    "ingredients": {
+        "H": {
+            "type": "item",
+            "code": "game:stick"    
+        },
+        "B": {
+            "allowedVariants": [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "iron", "gold", "silver", "meteoriciron", "steel" ],
+            "code": "newgladiusblade-*",
+            "name": "metal",
+            "type": "item"
+        }
+    },
+    "output": {
+        "type": "item",
+        "code": "newgladius-{metal}",
+        "quantity": 1
+    }
+}   

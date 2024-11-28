@@ -1,0 +1,10 @@
+{
+  "type": "content",
+  "modid": "newgladius",
+  "name": "Gladius [Vanilla Plus]",
+  "authors": [
+    "Evotyrant"
+  ],
+  "description": "Adds a craftable Gladius",
+  "version": "1.0.0"
+}
